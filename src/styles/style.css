@@ -1,0 +1,8 @@
+@import url(reset.css);
+@import url(variables.css);
+@import url(general.css);
+@import url(top.css);
+@import url(slider.css);
+@import url(order-section.css);
+@import url(ingredient-card.css);
+@import url(order-placed.css);

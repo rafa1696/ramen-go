@@ -1,0 +1,12 @@
+:root {
+  --default-font: "M PLUS Rounded 1c", sans-serif;
+
+  --black: #000000;
+  --blue: #1820ef;
+  --white: #fff;
+  --offwhite: #fafaed;
+  --bullet-background: #e0dbbf;
+  --inactive: #c5c5c5;
+  --red: #ff4e42;
+  --yellow: #ffc024;
+}
