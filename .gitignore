@@ -30,6 +30,7 @@ out/
 # Compiled JavaScript files
 *.js
 *.js.map
+!vite.config.js
 
 # Cache directories
 .cache/
