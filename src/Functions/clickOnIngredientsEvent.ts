@@ -1,5 +1,3 @@
-import { checkButtonState } from "../main";
-
 export const clickOnIngredientsEvent = (
   eventElement: { currentTarget: any },
   elementsOnDom:
