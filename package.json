@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://rafa1696.github.io/ramen-go/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
