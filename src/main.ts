@@ -119,6 +119,7 @@ const createOrder = throttle(() => {
       .then((response) => response.json())
       .then((order: Order) => {
         mainDiv!.innerHTML = OrderPlaced(order);
+        window.scrollTo(0, 0);
       })
       .catch((err) => {
         const button = mainDiv!.querySelector("#place-order");
