@@ -24,7 +24,7 @@ export const OrderPlaced = (order: Order) => `
           <img src="order-placed.svg"/>
           <h2>どもありがとうございます。<span>Your order is being prepared</span></h2>
           <p>Hold on, when you least expect you will be eating your rámen. </p>
-          <button class="button" onclick="location.replace('/')">
+          <button class="button" onclick="location.replace('/ramen-go')">
             Place New Order
             <img src="yellow-arrow.svg"/>
           </button>
