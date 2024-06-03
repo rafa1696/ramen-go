@@ -154,7 +154,7 @@ mainDiv!.innerHTML = `
   <div class="container">
   <div class="container__top-section">
     <div class="header">
-      <img class="logo" src="main-logo.svg"/>
+      <a href="/"><img class="logo" src="main-logo.svg"/></a>
     </div>
     <div class="hero">
       <span class="hero__image-container">
