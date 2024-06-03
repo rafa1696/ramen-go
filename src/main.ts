@@ -163,7 +163,7 @@ mainDiv!.innerHTML = `
       <span class="hero__texts-container">
         <h1>ラ l メ ン <br/> <span>GO!</span></h1>
         <p>Enjoy a good ramen in the comfort of your house. Create your own ramen and choose your favorite flavour combination!</p>
-        <button onclick="window.location = '/#order-section'" class="button">
+        <button onclick="window.location = '#order-section'" class="button">
           Place My Order 
           <img src="white-arrow.svg"/>
         </button>
