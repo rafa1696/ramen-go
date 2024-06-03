@@ -6,7 +6,7 @@ export const OrderPlaced = (order: Order) => `
        <div class="hero">
           <div class="container__top-section">
             <div class="header">
-              <a href="/"><img class="logo" src="main-logo.svg"/></a>
+              <a href="/ramen-go/"><img class="logo" src="main-logo.svg"/></a>
             </div>
           </div>
           <span class="hero__image-container">
